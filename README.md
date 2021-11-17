@@ -1,2 +1,2 @@
 # Mouse
-Pytest module for an imaginary software mouse API
+Pytest module for a dummy automated mouse module
